@@ -1,0 +1,5 @@
+{
+  "default": "/opt/google/chrome/google-chrome '--profile-directory=Default' --user-data-dir=/home/username/.config/google-chrome",
+  "confluence.com": "/opt/google/chrome/google-chrome '--profile-directory=Profile 1' --user-data-dir=/home/username/.config/google-chrome-another",
+  "github.com": "/usr/bin/firefox"
+}
